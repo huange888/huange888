@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##huange888/huange888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##huange888/huange888** is a ✨ _special_ ✨ repository showing about my own profile
 
 Here are some ideas to get you started:
 
