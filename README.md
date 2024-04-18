@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**huange888/huange888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+##huange888/huange888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying in cqupt
+- 🌱 I’m currently learning python spring vue 
+- 👯 I’m looking to collaborate on more great guys
+- 🤔 I’m looking for help with your python problems
+- 💬 Ask me about python 
+- 📫 How to reach me: 3100417459@qq.com
+- 😄 Pronouns: 欢哥
+- ⚡ Fun fact: thanks bro good luck to you
+
